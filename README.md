@@ -1,2 +1,2 @@
 # To-Do-List
-Demo-code from an To-Do list
+Demo-code of a To-Do list
